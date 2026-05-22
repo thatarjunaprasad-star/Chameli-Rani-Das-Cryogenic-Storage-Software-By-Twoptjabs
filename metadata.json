@@ -1,0 +1,6 @@
+{
+  "name": "Tokamak Disruption Predictor",
+  "description": "An interactive real-time simulation of deep neural networks for Tokamak reactor plasma disruption mitigation, featuring customizable reactors, instability triggers, and sensor diagnostics graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
